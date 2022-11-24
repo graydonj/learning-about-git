@@ -11,3 +11,8 @@ header {
     color: darkblue;
     border: 1px solid red;
 }
+
+h2 {
+    border: 10px dotted orange;
+    font-weight: 900;
+}
